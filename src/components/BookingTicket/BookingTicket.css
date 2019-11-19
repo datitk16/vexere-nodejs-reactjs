@@ -1,0 +1,17 @@
+.booking__ticket{
+    width: 80%;
+    margin: auto;
+    height: 100px;
+    background-color: white;
+}
+.form-group{
+    float: left;
+    width: 33%;
+   margin: 0 1px;
+   padding: 5px;
+  
+}
+.input__form{
+    border-radius: 0;
+  
+}

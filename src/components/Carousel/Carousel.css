@@ -1,0 +1,11 @@
+.carousel-inner img {
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+.__booking_ticket{
+    top: 30%;
+    width: 80%;
+    left: 7%;
+    position: absolute;
+}
