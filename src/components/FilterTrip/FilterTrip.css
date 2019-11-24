@@ -1,0 +1,81 @@
+.filter__trip{
+    width: 100%;
+    background-color: #efefef;
+    height: 50px;
+}
+.title__trips{
+    width: 30%;
+    float: left;
+}
+.filter__cost{
+    width: 20%;
+    float: left;
+}
+.contact__filter{
+    padding:10px 0;
+    width: 1200px;
+    margin:auto;
+}
+.info__item__trip{
+    width: 1200px;
+    margin:auto;
+    padding-top: 30px 0;
+    
+}
+.item__trip{
+    border: 2px solid #efefef;
+    width: 100%;
+    height: 200px;
+}
+.info__company{
+    width: 25%;
+    float: left;
+    margin-top: 30px;
+}
+.name__company p{
+font-weight: 600;
+padding:5px 0 0 0;
+}
+.start__time{
+    width: 20%;
+    float: left;
+    margin-top: 40px ;
+}
+.next__time{
+    width: 5%;
+    float: left;
+}
+.start__time span{
+    font-weight: 600;
+
+}
+.next__time img{
+    margin: 20px 0;
+}
+.empty__seat{
+    width: 20%;
+    float: left;
+}
+.start__cart{
+    /* width: 40%; */
+    float: left;
+    margin-top: 40px;
+}
+.empty__seat{
+    margin-top: 30px;
+}
+.next__time{
+    margin-top: 30px;
+}
+.by__ticket{
+    /* width: 10%; */
+    float: left;
+    margin-top: 15px;
+    
+}
+.by__ticket button{
+    background-color: #f9af00;
+    border-radius: 0;
+    font-weight: 550;
+    
+}

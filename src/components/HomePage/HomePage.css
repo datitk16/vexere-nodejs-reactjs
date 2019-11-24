@@ -1,0 +1,119 @@
+.image_bane1 {
+    width: 30%;
+    background-image: url('./../../images/banner1.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50px;
+    height: 200px;
+float: left;
+/* padding: 50px; */
+    /* top: 50px; */
+    margin-left: 1%;
+   
+    border-radius: 5px;
+}
+.image_bane2{
+    width: 30%;
+    background-image: url('./../../images/banner2.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50px;
+    height: 200px;
+    border-radius: 5px;
+float: left;
+/* padding: 50px; */
+    /* top: 50px; */
+    margin-left: 1%;
+   
+}
+.image_bane3{
+    width: 30%;
+    background-image: url('./../../images/banner3.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 50px;
+    height: 200px;
+    border-radius: 5px;
+float: left;
+/* padding: 50px; */
+    /* top: 50px; */
+    margin-left: 1%;
+   
+}
+.img_bane img{
+    width: 100%;
+    height: 100%;
+}
+.info__trips{
+   padding:50px 0;
+}
+.container__body{
+    margin: auto;
+    max-width: 1200px;
+}
+.body__icon{
+   padding: 50px 0;
+     
+}
+.icon_way{
+    border: 8px solid #D9D9D9;
+   padding: px;
+}
+.icon1{
+   
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+   
+}
+.icon2{
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+    height: 100px;
+}
+.icon3{
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+    height: 100px;
+}
+.icon4{
+    float: left;
+    width: 24%;
+    margin-left: 1%;
+    height: 100px;
+}
+.title__icon{
+    width: 100%;
+}
+.title__icon img{
+    width: 30%;
+    float: left;
+    margin-right: 5%;
+}
+.title__icon .title{
+    width: 60%;
+    float: left;
+
+}
+.title span{
+    font-size: 30px;
+    font-weight: 600;
+}
+.body__icon h4{
+    margin-left: 7px;
+    padding: 30px 0;
+    font-weight: 550;
+}
+.info__trips h4{
+    margin-left: 7px;
+    padding: 30px 0;
+}
+.station__info img{
+    width: 100%;
+    height: 200px;
+}

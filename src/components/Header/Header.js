@@ -1,15 +1,13 @@
 import React, { Component } from 'react';
 import './Header.css';
-import style from './style'
-import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button'
+
 class Header extends Component {
     render() {
         return (
-            <div>
-                <nav class="navbar navbar-expand-lg navbar-light">
+            <div className="header">
+                <nav class="navbar navbar-expand-lg header__home navbar-light">
 
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar__brand" href="#">
                         <img src={require('./../../images/logo.svg')} />
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,7 +24,7 @@ class Header extends Component {
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Chọn loại xe
+                                    Loại xe
         </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <a class="dropdown-item" href="#">Action</a>

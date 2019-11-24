@@ -1,0 +1,116 @@
+.booking__tickets{
+    width: 100%;
+    background-color:#f0f0f0 ;
+    height: 500px;
+}
+.select__seat{
+    width: 33%;
+    float: left;
+    
+}
+.info__ticket{
+    width: 1200px;
+    margin: auto;
+}
+.show__seat{
+background-color: white;
+padding: 3px ;
+height: 100%;
+  width: 80%;
+  margin: auto;
+}
+.ex__seat{
+width: 100%;
+}
+.clear{
+    clear: both;
+}
+.seat__cart{
+    float: left;
+    width: 30%;
+}
+.ex__seat{
+    margin-top: 3px;
+    margin-left: 2%;
+    width: 96%;
+    padding: 10px;
+    /* margin: auto; */
+    font-size: 14px;
+    height: 100px;
+    background-color: #ddd;
+    
+}
+.price__seat{
+    width: 5px ;
+    height: 5px;
+    background-color: white;
+}
+.price__seat_item{
+    background-color: white;
+    margin-top: 5px;
+    width: 50%;
+    font-weight: 550;
+    font-size: 16px;
+    padding: 2px;
+    border: 1px solid black;
+
+}
+.floor_one{
+    background-color:#fbfbfb ;
+    width: 96%;
+    margin-left: 2%;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+    padding: 5px;
+}
+.floor_one img{
+   
+}
+.floor_one button{
+  padding:2px;
+  margin: 5px;
+  background-color: white;
+  border: 1px solid grey;
+}
+.count_seat_money{
+    width: 96%;
+    margin-left: 2%;
+    margin-top: 5px;
+}
+.navBar__stations{
+    width: 100%;
+}
+.nav-item{
+    width: 30%;
+    color: black;
+    height: ;
+}
+.nav-link {
+    color: black !important;
+}
+.tab-content p{
+    font-weight: 600;
+}
+.form__group{
+    margin: 5px 0;
+}
+.info__user_ticket{
+    width: 90%;
+    margin-left: 5%;
+}
+.info__user_ticket button{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+    background-color:#f9af00 ;
+    border: 0;
+}
+.info__user_ticket button:hover{
+    background-color: #968053;
+}
+.info__user_ticket .img__left{
+   
+    float: left;
+    width: 30px;
+    height: 30px;
+}
