@@ -6,20 +6,22 @@ import './App.css'
 import HomePage from './components/HomePage/HomePage';
 import Login from './components/Login/Login';
 import Trips from './components/Trips/Trips';
+import UsersContainer from './containers/UsersContainer/UsersContainer';
+import axios from 'axios';
 class App extends Component {
+ 
   render() {
     return (
       <div className="body">
-      
-        {/* <Login/> */}
-        <Header/>
-        <Trips/>
+        <UsersContainer />
+        {/* <Header/>
+        <Trips/> */}
         {/* <div className=> */}
         {/* <Carousel/> */}
         <div className="clear"></div>
         {/* <HomePage/> */}
-      
-       {/* <BookingTicket/> */}
+
+        {/* <BookingTicket/> */}
       </div>
     );
   }
